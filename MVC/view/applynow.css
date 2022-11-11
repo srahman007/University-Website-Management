@@ -1,0 +1,48 @@
+h2{
+	border: 25px solid #75DDC1;
+}
+
+div.main{
+	width: 400px;
+	margin: 100px auto 0px auto;
+}
+
+div.main2{
+	width: 400px;
+	margin: 100px auto 0px auto;
+}
+
+div.underlogin{
+	width: 400px;
+	margin: 100px auto 0px auto;
+}
+
+div.postlogin{
+	width: 400px;
+	margin: 100px auto 0px auto;
+}
+
+div.underchangepassword{
+	width: 400px;
+	margin: 100px auto 0px auto;
+}
+
+div.postchangepassword{
+	width: 400px;
+	margin: 100px auto 0px auto;
+}
+
+div.loginn{
+	width: 400px;
+	margin: 100px auto 0px auto;
+}
+
+div.underuserlist{
+	width: 400px;
+	margin: 100px auto 0px auto;
+}
+
+div.postuserlist{
+	width: 400px;
+	margin: 100px auto 0px auto;
+}
